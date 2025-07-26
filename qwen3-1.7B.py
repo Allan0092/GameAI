@@ -23,7 +23,7 @@ except Exception as e:
     exit(1)
 
 # Load Qwen2-1.5B-Instruct (lightweight, no quantization needed, but optional)
-model_name = "Qwen/Qwen2-1.5B-Instruct"
+model_name = "Qwen/Qwen3-1.7B"
 try:
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
