@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 49692104f3461a44e920185c05d9c118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3185572781838006895
+    second: safehouse sprite 1_0
+  - first:
+      213: -6334188645135715479
+    second: safehouse sprite 1_1
+  - first:
+      213: -4596383880808981799
+    second: safehouse sprite 1_2
+  - first:
+      213: 4067795115954299041
+    second: safehouse sprite 1_3
+  - first:
+      213: 5857745251560969378
+    second: safehouse sprite 1_4
+  - first:
+      213: 6549320514565139529
+    second: safehouse sprite 1_5
+  - first:
+      213: 6306892435081040468
+    second: safehouse sprite 1_6
+  - first:
+      213: 6947553612392879600
+    second: safehouse sprite 1_7
+  - first:
+      213: -2444378392431327390
+    second: safehouse sprite 1_8
+  - first:
+      213: 5401808301005762314
+    second: safehouse sprite 1_9
+  - first:
+      213: 1792580357675128907
+    second: safehouse sprite 1_10
+  - first:
+      213: -6534163494981329728
+    second: safehouse sprite 1_11
+  - first:
+      213: -1261788288436149680
+    second: safehouse sprite 1_12
+  - first:
+      213: -8491892696501624102
+    second: safehouse sprite 1_13
+  - first:
+      213: 600595887510763921
+    second: safehouse sprite 1_14
+  - first:
+      213: 1959697939419513634
+    second: safehouse sprite 1_15
+  - first:
+      213: 3462562980915382433
+    second: safehouse sprite 1_16
+  - first:
+      213: -5627818835333701206
+    second: safehouse sprite 1_17
+  - first:
+      213: -525577865669990364
+    second: safehouse sprite 1_18
+  - first:
+      213: 8351909174322324972
+    second: safehouse sprite 1_19
+  - first:
+      213: 7885004709177048520
+    second: safehouse sprite 1_20
+  - first:
+      213: 4222152576283032994
+    second: safehouse sprite 1_21
+  - first:
+      213: -62966896207782128
+    second: safehouse sprite 1_22
+  - first:
+      213: -261809043328503985
+    second: safehouse sprite 1_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: safehouse sprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 14
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a7b93319d653c20800000000000000
+      internalID: 3185572781838006895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637f5abcf07818a0800000000000000
+      internalID: -6334188645135715479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da9c0d863d5630c0800000000000000
+      internalID: -4596383880808981799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a066891b16b37830800000000000000
+      internalID: 4067795115954299041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 80
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d5084544ea4150800000000000000
+      internalID: 5857745251560969378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c65d6ee4cd3ea50800000000000000
+      internalID: 6549320514565139529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 80
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529a9d1145968750800000000000000
+      internalID: 6306892435081040468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 15
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5d8a4633baa6060800000000000000
+      internalID: 6947553612392879600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 15
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2678d7e8dc2d31ed0800000000000000
+      internalID: -2444378392431327390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 14
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f643e970417fa40800000000000000
+      internalID: 5401808301005762314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 14
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48919a765680e810800000000000000
+      internalID: 1792580357675128907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 14
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1059bbecf155a0800000000000000
+      internalID: -6534163494981329728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 14
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052e306ac3a3d7ee0800000000000000
+      internalID: -1261788288436149680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 14
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad26942a59cb62a80800000000000000
+      internalID: -8491892696501624102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 15
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199b3a017ceb55800800000000000000
+      internalID: 600595887510763921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 80
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234a2a94ee323b10800000000000000
+      internalID: 1959697939419513634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a801e98fae7d0030800000000000000
+      internalID: 3462562980915382433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 48
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1aea33698f5e1b0800000000000000
+      internalID: -5627818835333701206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 48
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428aeee37b5c4b8f0800000000000000
+      internalID: -525577865669990364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_19
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 48
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5eecbc421f7e370800000000000000
+      internalID: 8351909174322324972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb7c6a10a2d6d60800000000000000
+      internalID: 7885004709177048520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb9d0f569189a30800000000000000
+      internalID: 4222152576283032994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 14
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f1de601fb402ff0800000000000000
+      internalID: -62966896207782128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: safehouse sprite 1_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 15
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6b6def0edd5cf0800000000000000
+      internalID: -261809043328503985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      safehouse sprite 1_0: 3185572781838006895
+      safehouse sprite 1_1: -6334188645135715479
+      safehouse sprite 1_10: 1792580357675128907
+      safehouse sprite 1_11: -6534163494981329728
+      safehouse sprite 1_12: -1261788288436149680
+      safehouse sprite 1_13: -8491892696501624102
+      safehouse sprite 1_14: 600595887510763921
+      safehouse sprite 1_15: 1959697939419513634
+      safehouse sprite 1_16: 3462562980915382433
+      safehouse sprite 1_17: -5627818835333701206
+      safehouse sprite 1_18: -525577865669990364
+      safehouse sprite 1_19: 8351909174322324972
+      safehouse sprite 1_2: -4596383880808981799
+      safehouse sprite 1_20: 7885004709177048520
+      safehouse sprite 1_21: 4222152576283032994
+      safehouse sprite 1_22: -62966896207782128
+      safehouse sprite 1_23: -261809043328503985
+      safehouse sprite 1_3: 4067795115954299041
+      safehouse sprite 1_4: 5857745251560969378
+      safehouse sprite 1_5: 6549320514565139529
+      safehouse sprite 1_6: 6306892435081040468
+      safehouse sprite 1_7: 6947553612392879600
+      safehouse sprite 1_8: -2444378392431327390
+      safehouse sprite 1_9: 5401808301005762314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

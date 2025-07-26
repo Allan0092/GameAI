@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 59a4e711ca6324d4e979e82aba031dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5241252779452354558
+    second: chiefdialogueFive_0
+  - first:
+      213: 2970003748548835548
+    second: chiefdialogueFive_1
+  - first:
+      213: -7976025697413468584
+    second: chiefdialogueFive_2
+  - first:
+      213: -2627310957943913730
+    second: chiefdialogueFive_3
+  - first:
+      213: -2368789982388438671
+    second: chiefdialogueFive_4
+  - first:
+      213: 6621862635479848897
+    second: chiefdialogueFive_5
+  - first:
+      213: -7676615509646201817
+    second: chiefdialogueFive_6
+  - first:
+      213: 595942371960690049
+    second: chiefdialogueFive_7
+  - first:
+      213: -4739263886373939476
+    second: chiefdialogueFive_8
+  - first:
+      213: -4038510142027721261
+    second: chiefdialogueFive_9
+  - first:
+      213: 1074132758936227158
+    second: chiefdialogueFive_10
+  - first:
+      213: 7926741265173139357
+    second: chiefdialogueFive_11
+  - first:
+      213: -5095764738240841997
+    second: chiefdialogueFive_12
+  - first:
+      213: -8985373367268007300
+    second: chiefdialogueFive_13
+  - first:
+      213: -4768485330456767613
+    second: chiefdialogueFive_14
+  - first:
+      213: -6436157044387426739
+    second: chiefdialogueFive_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chiefdialogueFive_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b6becd545347b0800000000000000
+      internalID: -5241252779452354558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8f4dd6ca2973920800000000000000
+      internalID: 2970003748548835548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 16
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e684213e67f4190800000000000000
+      internalID: -7976025697413468584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 16
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef203459a9ae98bd0800000000000000
+      internalID: -2627310957943913730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 15
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179bb38bf0e502fd0800000000000000
+      internalID: -2368789982388438671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 54
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7553b9bf495eb50800000000000000
+      internalID: 6621862635479848897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 15
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca84ecdde277590800000000000000
+      internalID: -7676615509646201817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 15
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185125b0e66354800800000000000000
+      internalID: 595942371960690049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 15
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce618d3ea90ca3eb0800000000000000
+      internalID: -4739263886373939476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_9
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 15
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d510aa3c6454f7c0800000000000000
+      internalID: -4038510142027721261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 16
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d0102ad0618ee00800000000000000
+      internalID: 1074132758936227158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f4319de21710e60800000000000000
+      internalID: 7926741265173139357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 14
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6713618f43849b0800000000000000
+      internalID: -5095764738240841997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_13
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 15
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c722cbd678a8d4380800000000000000
+      internalID: -8985373367268007300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_14
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 15
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38396714bdfe2ddb0800000000000000
+      internalID: -4768485330456767613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueFive_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 15
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ec8a2b44d2ea6a0800000000000000
+      internalID: -6436157044387426739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chiefdialogueFive_0: -5241252779452354558
+      chiefdialogueFive_1: 2970003748548835548
+      chiefdialogueFive_10: 1074132758936227158
+      chiefdialogueFive_11: 7926741265173139357
+      chiefdialogueFive_12: -5095764738240841997
+      chiefdialogueFive_13: -8985373367268007300
+      chiefdialogueFive_14: -4768485330456767613
+      chiefdialogueFive_15: -6436157044387426739
+      chiefdialogueFive_2: -7976025697413468584
+      chiefdialogueFive_3: -2627310957943913730
+      chiefdialogueFive_4: -2368789982388438671
+      chiefdialogueFive_5: 6621862635479848897
+      chiefdialogueFive_6: -7676615509646201817
+      chiefdialogueFive_7: 595942371960690049
+      chiefdialogueFive_8: -4739263886373939476
+      chiefdialogueFive_9: -4038510142027721261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

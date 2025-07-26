@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d59c824195a23014d9c3b6e6e8741581
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/VFX/water.anim
+  uploadId: 663798

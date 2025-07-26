@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 6d54fa2ca9f57db42934554babdb6e61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5686644128535919691
+    second: chiefdialogueTwo_0
+  - first:
+      213: -3296206002221197549
+    second: chiefdialogueTwo_1
+  - first:
+      213: -3627036535078142077
+    second: chiefdialogueTwo_2
+  - first:
+      213: 7830974082849647421
+    second: chiefdialogueTwo_3
+  - first:
+      213: -499661010105220964
+    second: chiefdialogueTwo_4
+  - first:
+      213: -6617873011931999420
+    second: chiefdialogueTwo_5
+  - first:
+      213: -7635160404506098185
+    second: chiefdialogueTwo_6
+  - first:
+      213: -2316206781961523945
+    second: chiefdialogueTwo_7
+  - first:
+      213: 2008329981478832279
+    second: chiefdialogueTwo_8
+  - first:
+      213: -2883178630099965647
+    second: chiefdialogueTwo_9
+  - first:
+      213: 1903731413227867800
+    second: chiefdialogueTwo_10
+  - first:
+      213: 6255848099091275892
+    second: chiefdialogueTwo_11
+  - first:
+      213: -7083205846087616990
+    second: chiefdialogueTwo_12
+  - first:
+      213: -7677818493334765783
+    second: chiefdialogueTwo_13
+  - first:
+      213: 4115654357847413836
+    second: chiefdialogueTwo_14
+  - first:
+      213: -2551257702935071747
+    second: chiefdialogueTwo_15
+  - first:
+      213: 6567399311449120149
+    second: chiefdialogueTwo_16
+  - first:
+      213: -3525138916468533813
+    second: chiefdialogueTwo_17
+  - first:
+      213: -6664678394859049136
+    second: chiefdialogueTwo_18
+  - first:
+      213: 2266795636117473499
+    second: chiefdialogueTwo_19
+  - first:
+      213: 8768885452396372246
+    second: chiefdialogueTwo_20
+  - first:
+      213: -6576327502187973742
+    second: chiefdialogueTwo_21
+  - first:
+      213: 8753857574936795729
+    second: chiefdialogueTwo_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chiefdialogueTwo_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b34e825b4bf411b0800000000000000
+      internalID: -5686644128535919691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3175813ea168142d0800000000000000
+      internalID: -3296206002221197549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 16
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fbd4bfc7d2aadc0800000000000000
+      internalID: -3627036535078142077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 16
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2b8520753dac60800000000000000
+      internalID: 7830974082849647421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 15
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90c09865f8d019f0800000000000000
+      internalID: -499661010105220964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 54
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44316230f879824a0800000000000000
+      internalID: -6617873011931999420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5494e90167a0690800000000000000
+      internalID: -7635160404506098185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 15
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d25de143e2bdfd0800000000000000
+      internalID: -2316206781961523945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 16
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79800d14a750fdb10800000000000000
+      internalID: 2008329981478832279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 16
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139e4e8cf44ecf7d0800000000000000
+      internalID: -2883178630099965647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 15
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e033942a96b6a10800000000000000
+      internalID: 1903731413227867800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 16
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470632383bc31d650800000000000000
+      internalID: 6255848099091275892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 16
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2263af8bfc563bd90800000000000000
+      internalID: -7083205846087616990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_13
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 15
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f3bd652c8e27590800000000000000
+      internalID: -7677818493334765783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_14
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 16
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4498c135ddbd1930800000000000000
+      internalID: 4115654357847413836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_15
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 15
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37316e2ac189cd0800000000000000
+      internalID: -2551257702935071747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_16
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 16
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dd111d0e6142b50800000000000000
+      internalID: 6567399311449120149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_17
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 16
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5dcfb15d0341fc0800000000000000
+      internalID: -3525138916468533813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_18
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 15
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa4349f4e4283a0800000000000000
+      internalID: -6664678394859049136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_19
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 16
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8003dfe96457f10800000000000000
+      internalID: 2266795636117473499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_20
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 14
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112d220cd651b970800000000000000
+      internalID: 8768885452396372246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_21
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 15
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2933479caf03cb4a0800000000000000
+      internalID: -6576327502187973742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueTwo_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 15
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a5870a513fb7970800000000000000
+      internalID: 8753857574936795729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chiefdialogueTwo_0: -5686644128535919691
+      chiefdialogueTwo_1: -3296206002221197549
+      chiefdialogueTwo_10: 1903731413227867800
+      chiefdialogueTwo_11: 6255848099091275892
+      chiefdialogueTwo_12: -7083205846087616990
+      chiefdialogueTwo_13: -7677818493334765783
+      chiefdialogueTwo_14: 4115654357847413836
+      chiefdialogueTwo_15: -2551257702935071747
+      chiefdialogueTwo_16: 6567399311449120149
+      chiefdialogueTwo_17: -3525138916468533813
+      chiefdialogueTwo_18: -6664678394859049136
+      chiefdialogueTwo_19: 2266795636117473499
+      chiefdialogueTwo_2: -3627036535078142077
+      chiefdialogueTwo_20: 8768885452396372246
+      chiefdialogueTwo_21: -6576327502187973742
+      chiefdialogueTwo_22: 8753857574936795729
+      chiefdialogueTwo_3: 7830974082849647421
+      chiefdialogueTwo_4: -499661010105220964
+      chiefdialogueTwo_5: -6617873011931999420
+      chiefdialogueTwo_6: -7635160404506098185
+      chiefdialogueTwo_7: -2316206781961523945
+      chiefdialogueTwo_8: 2008329981478832279
+      chiefdialogueTwo_9: -2883178630099965647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

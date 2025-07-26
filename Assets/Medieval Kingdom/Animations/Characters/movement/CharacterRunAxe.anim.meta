@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d034be8893aa9154dbe6c07bc53106aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/Characters/movement/CharacterRunAxe.anim
+  uploadId: 663798

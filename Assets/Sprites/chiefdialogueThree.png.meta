@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: adb9af0b434d9d8448da28792a3aeae3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2771856511118612396
+    second: chiefdialogueThree_0
+  - first:
+      213: 7921088373715109266
+    second: chiefdialogueThree_1
+  - first:
+      213: -2057172018523217119
+    second: chiefdialogueThree_2
+  - first:
+      213: 5052657375475812438
+    second: chiefdialogueThree_3
+  - first:
+      213: -754684445561259321
+    second: chiefdialogueThree_4
+  - first:
+      213: -4121562556090924477
+    second: chiefdialogueThree_5
+  - first:
+      213: -4924857715961028390
+    second: chiefdialogueThree_6
+  - first:
+      213: 6452123367870626203
+    second: chiefdialogueThree_7
+  - first:
+      213: -5177444659520532443
+    second: chiefdialogueThree_8
+  - first:
+      213: 9024560836151761803
+    second: chiefdialogueThree_9
+  - first:
+      213: 579578366144312369
+    second: chiefdialogueThree_10
+  - first:
+      213: 4173061674917024849
+    second: chiefdialogueThree_11
+  - first:
+      213: 7139226365976008732
+    second: chiefdialogueThree_12
+  - first:
+      213: 7813996173359465250
+    second: chiefdialogueThree_13
+  - first:
+      213: -1333552030484848973
+    second: chiefdialogueThree_14
+  - first:
+      213: -2960295023030539197
+    second: chiefdialogueThree_15
+  - first:
+      213: 976300506650564631
+    second: chiefdialogueThree_16
+  - first:
+      213: 4782132019539633657
+    second: chiefdialogueThree_17
+  - first:
+      213: -6748451179511111787
+    second: chiefdialogueThree_18
+  - first:
+      213: 1692880300431358825
+    second: chiefdialogueThree_19
+  - first:
+      213: -75787107213139853
+    second: chiefdialogueThree_20
+  - first:
+      213: -3125518647093496113
+    second: chiefdialogueThree_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chiefdialogueThree_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 32
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458eb6660336889d0800000000000000
+      internalID: -2771856511118612396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29504cd78eb5ded60800000000000000
+      internalID: 7921088373715109266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 33
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123ec02d2f47373e0800000000000000
+      internalID: -2057172018523217119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6584ef4ec15ae1640800000000000000
+      internalID: 5052657375475812438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cafec8ce72d685f0800000000000000
+      internalID: -754684445561259321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34246a431b44dc6c0800000000000000
+      internalID: -4121562556090924477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 15
+        width: 48
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad02dc6100467abb0800000000000000
+      internalID: -4924857715961028390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 32
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99fceca40c8a8950800000000000000
+      internalID: 6452123367870626203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 32
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520190173850628b0800000000000000
+      internalID: -5177444659520532443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 31
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b5abc244ead3d70800000000000000
+      internalID: 9024560836151761803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_10
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 32
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134788904731b0800800000000000000
+      internalID: 579578366144312369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 32
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154d937cb71b9e930800000000000000
+      internalID: 4173061674917024849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_12
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 33
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c185a1bfd80a31360800000000000000
+      internalID: 7139226365976008732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 32
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234a5d8e14e07c60800000000000000
+      internalID: 7813996173359465250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_14
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 32
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be13756e754e7de0800000000000000
+      internalID: -1333552030484848973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 32
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c68e16c5beae6d0800000000000000
+      internalID: -2960295023030539197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_16
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 33
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718d0fc53248c8d00800000000000000
+      internalID: 976300506650564631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_17
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 32
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f56ea52cbb8d5240800000000000000
+      internalID: 4782132019539633657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_18
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 32
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f9c25386fa852a0800000000000000
+      internalID: -6748451179511111787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_19
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 33
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb77af9a15e7710800000000000000
+      internalID: 1692880300431358825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_20
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 15
+        width: 48
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370a10c0700c2fef0800000000000000
+      internalID: -75787107213139853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueThree_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 32
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f125a95def94d0800000000000000
+      internalID: -3125518647093496113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chiefdialogueThree_0: -2771856511118612396
+      chiefdialogueThree_1: 7921088373715109266
+      chiefdialogueThree_10: 579578366144312369
+      chiefdialogueThree_11: 4173061674917024849
+      chiefdialogueThree_12: 7139226365976008732
+      chiefdialogueThree_13: 7813996173359465250
+      chiefdialogueThree_14: -1333552030484848973
+      chiefdialogueThree_15: -2960295023030539197
+      chiefdialogueThree_16: 976300506650564631
+      chiefdialogueThree_17: 4782132019539633657
+      chiefdialogueThree_18: -6748451179511111787
+      chiefdialogueThree_19: 1692880300431358825
+      chiefdialogueThree_2: -2057172018523217119
+      chiefdialogueThree_20: -75787107213139853
+      chiefdialogueThree_21: -3125518647093496113
+      chiefdialogueThree_3: 5052657375475812438
+      chiefdialogueThree_4: -754684445561259321
+      chiefdialogueThree_5: -4121562556090924477
+      chiefdialogueThree_6: -4924857715961028390
+      chiefdialogueThree_7: 6452123367870626203
+      chiefdialogueThree_8: -5177444659520532443
+      chiefdialogueThree_9: 9024560836151761803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

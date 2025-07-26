@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 04f16b49d81742a41b983c2825cad77b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4012574696891509211
+    second: chiefdialogueOne_0
+  - first:
+      213: 4007783555216690449
+    second: chiefdialogueOne_1
+  - first:
+      213: 4363714343195826559
+    second: chiefdialogueOne_2
+  - first:
+      213: -4682902712793832208
+    second: chiefdialogueOne_3
+  - first:
+      213: 7259088432973484788
+    second: chiefdialogueOne_4
+  - first:
+      213: -2814269812131613307
+    second: chiefdialogueOne_5
+  - first:
+      213: -1663755138923301564
+    second: chiefdialogueOne_6
+  - first:
+      213: 1189409578653130389
+    second: chiefdialogueOne_7
+  - first:
+      213: 8735147276603974335
+    second: chiefdialogueOne_8
+  - first:
+      213: 1219376298369023515
+    second: chiefdialogueOne_9
+  - first:
+      213: 7261360545540950243
+    second: chiefdialogueOne_10
+  - first:
+      213: 1994834719461155419
+    second: chiefdialogueOne_11
+  - first:
+      213: 5461618477345150992
+    second: chiefdialogueOne_12
+  - first:
+      213: 2090418267604496029
+    second: chiefdialogueOne_13
+  - first:
+      213: 5015253657399962266
+    second: chiefdialogueOne_14
+  - first:
+      213: 6361217442464300392
+    second: chiefdialogueOne_15
+  - first:
+      213: -7814303670535961929
+    second: chiefdialogueOne_16
+  - first:
+      213: 4364790816029023363
+    second: chiefdialogueOne_17
+  - first:
+      213: -2580053187945151516
+    second: chiefdialogueOne_18
+  - first:
+      213: -5305426518694055855
+    second: chiefdialogueOne_19
+  - first:
+      213: 6893455070360774752
+    second: chiefdialogueOne_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chiefdialogueOne_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269f0d92987058c0800000000000000
+      internalID: -4012574696891509211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dc759c8e18e9730800000000000000
+      internalID: 4007783555216690449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 15
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d67f33170f8c30800000000000000
+      internalID: 4363714343195826559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 15
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4e5363bccf20fb0800000000000000
+      internalID: -4682902712793832208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 14
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2188038767db460800000000000000
+      internalID: 7259088432973484788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 53
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5853ac93484b1f8d0800000000000000
+      internalID: -2814269812131613307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 14
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445fe3f148729e8e0800000000000000
+      internalID: -1663755138923301564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 14
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1114c5b1a18010800000000000000
+      internalID: 1189409578653130389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 15
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb263b2da2a793970800000000000000
+      internalID: 8735147276603974335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_9
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 14
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ef0d768481ce010800000000000000
+      internalID: 1219376298369023515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 14
+        width: 149
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8410f91f885c460800000000000000
+      internalID: 7261360545540950243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_11
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 14
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b522917bb931fab10800000000000000
+      internalID: 1994834719461155419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 15
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0181ed871119bcb40800000000000000
+      internalID: 5461618477345150992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_13
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 14
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ead80c658a20d10800000000000000
+      internalID: 2090418267604496029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_14
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 15
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aadc321a2c99540800000000000000
+      internalID: 5015253657399962266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_15
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 14
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d7a1d8f85974850800000000000000
+      internalID: 6361217442464300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 14
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b24caea6340e8390800000000000000
+      internalID: -7814303670535961929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_17
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 15
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c1c4c1f1ad29c30800000000000000
+      internalID: 4364790816029023363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_18
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 14
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e34ae69b4fc13cd0800000000000000
+      internalID: -2580053187945151516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_19
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 14
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bd4bc0b65f56b0800000000000000
+      internalID: -5305426518694055855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chiefdialogueOne_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 14
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06828f70dd87aaf50800000000000000
+      internalID: 6893455070360774752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chiefdialogueOne_0: -4012574696891509211
+      chiefdialogueOne_1: 4007783555216690449
+      chiefdialogueOne_10: 7261360545540950243
+      chiefdialogueOne_11: 1994834719461155419
+      chiefdialogueOne_12: 5461618477345150992
+      chiefdialogueOne_13: 2090418267604496029
+      chiefdialogueOne_14: 5015253657399962266
+      chiefdialogueOne_15: 6361217442464300392
+      chiefdialogueOne_16: -7814303670535961929
+      chiefdialogueOne_17: 4364790816029023363
+      chiefdialogueOne_18: -2580053187945151516
+      chiefdialogueOne_19: -5305426518694055855
+      chiefdialogueOne_2: 4363714343195826559
+      chiefdialogueOne_20: 6893455070360774752
+      chiefdialogueOne_3: -4682902712793832208
+      chiefdialogueOne_4: 7259088432973484788
+      chiefdialogueOne_5: -2814269812131613307
+      chiefdialogueOne_6: -1663755138923301564
+      chiefdialogueOne_7: 1189409578653130389
+      chiefdialogueOne_8: 8735147276603974335
+      chiefdialogueOne_9: 1219376298369023515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

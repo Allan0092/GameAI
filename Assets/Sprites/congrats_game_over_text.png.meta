@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: d6287fcc5a66cbd4d9478c17ed08d943
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5885814213123156765
+    second: congrats_game_over_text_0
+  - first:
+      213: 1411572887398774601
+    second: congrats_game_over_text_1
+  - first:
+      213: -3365580600033272636
+    second: congrats_game_over_text_2
+  - first:
+      213: -2283403066268300259
+    second: congrats_game_over_text_3
+  - first:
+      213: 365580907140280456
+    second: congrats_game_over_text_4
+  - first:
+      213: 1315178110424053854
+    second: congrats_game_over_text_5
+  - first:
+      213: 8279757493853710589
+    second: congrats_game_over_text_6
+  - first:
+      213: 5542267318000098026
+    second: congrats_game_over_text_7
+  - first:
+      213: 5794974745176690000
+    second: congrats_game_over_text_8
+  - first:
+      213: -572600619941755969
+    second: congrats_game_over_text_9
+  - first:
+      213: 606238912054475906
+    second: congrats_game_over_text_10
+  - first:
+      213: -6889947637747630183
+    second: congrats_game_over_text_11
+  - first:
+      213: 3826835277006502818
+    second: congrats_game_over_text_12
+  - first:
+      213: -6658990865629234489
+    second: congrats_game_over_text_13
+  - first:
+      213: 5261927824388939289
+    second: congrats_game_over_text_14
+  - first:
+      213: -3915694339884957810
+    second: congrats_game_over_text_15
+  - first:
+      213: -2624933931567928410
+    second: congrats_game_over_text_16
+  - first:
+      213: 5555497017890185622
+    second: congrats_game_over_text_17
+  - first:
+      213: 6603456949428055019
+    second: congrats_game_over_text_18
+  - first:
+      213: -227744491347323226
+    second: congrats_game_over_text_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: congrats_game_over_text_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ba62ba7dc9ea150800000000000000
+      internalID: 5885814213123156765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947f9ffef0ae69310800000000000000
+      internalID: 1411572887398774601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 78
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1210a64e0b41d0800000000000000
+      internalID: -3365580600033272636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c4a0c5209bf40e0800000000000000
+      internalID: -2283403066268300259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880f2cae5edc21500800000000000000
+      internalID: 365580907140280456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58f138f583704210800000000000000
+      internalID: 1315178110424053854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 39
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df86787929b97e270800000000000000
+      internalID: 8279757493853710589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 39
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea17a3f2c61aec40800000000000000
+      internalID: 5542267318000098026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 15
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dcd90e3d2eb6050800000000000000
+      internalID: 5794974745176690000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 39
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3043a15c6bd08f0800000000000000
+      internalID: -572600619941755969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_10
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cb60a141bc96800800000000000000
+      internalID: 606238912054475906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 39
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fb203c02df160a0800000000000000
+      internalID: -6889947637747630183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_12
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf7e3b866ab1530800000000000000
+      internalID: 3826835277006502818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_13
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca399ba6138693a0800000000000000
+      internalID: -6658990865629234489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 39
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e52763a7f160940800000000000000
+      internalID: 5261927824388939289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 38
+        width: 78
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f362e7eb8a8a9c0800000000000000
+      internalID: -3915694339884957810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_16
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 38
+        width: 78
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab260a2f7c529bd0800000000000000
+      internalID: -2624933931567928410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_17
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 39
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691261e7a17191d40800000000000000
+      internalID: 5555497017890185622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_18
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb6e30eb1134ab50800000000000000
+      internalID: 6603456949428055019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congrats_game_over_text_19
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 38
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6d0bd7793e6dcf0800000000000000
+      internalID: -227744491347323226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      congrats_game_over_text_0: 5885814213123156765
+      congrats_game_over_text_1: 1411572887398774601
+      congrats_game_over_text_10: 606238912054475906
+      congrats_game_over_text_11: -6889947637747630183
+      congrats_game_over_text_12: 3826835277006502818
+      congrats_game_over_text_13: -6658990865629234489
+      congrats_game_over_text_14: 5261927824388939289
+      congrats_game_over_text_15: -3915694339884957810
+      congrats_game_over_text_16: -2624933931567928410
+      congrats_game_over_text_17: 5555497017890185622
+      congrats_game_over_text_18: 6603456949428055019
+      congrats_game_over_text_19: -227744491347323226
+      congrats_game_over_text_2: -3365580600033272636
+      congrats_game_over_text_3: -2283403066268300259
+      congrats_game_over_text_4: 365580907140280456
+      congrats_game_over_text_5: 1315178110424053854
+      congrats_game_over_text_6: 8279757493853710589
+      congrats_game_over_text_7: 5542267318000098026
+      congrats_game_over_text_8: 5794974745176690000
+      congrats_game_over_text_9: -572600619941755969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 6a6c9833c2b1f2c4794c713f5436621d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8872141843711696644
+    second: talk_instructions_text_0
+  - first:
+      213: -8783211606819425032
+    second: talk_instructions_text_1
+  - first:
+      213: 549998852516666513
+    second: talk_instructions_text_2
+  - first:
+      213: -447814438743765382
+    second: talk_instructions_text_3
+  - first:
+      213: -4036234437912094064
+    second: talk_instructions_text_4
+  - first:
+      213: -3073338477335626001
+    second: talk_instructions_text_5
+  - first:
+      213: -6488714497843315181
+    second: talk_instructions_text_6
+  - first:
+      213: -7065466149989756032
+    second: talk_instructions_text_7
+  - first:
+      213: 7494920650214856794
+    second: talk_instructions_text_8
+  - first:
+      213: 1502474265861631962
+    second: talk_instructions_text_9
+  - first:
+      213: -4285328206214851740
+    second: talk_instructions_text_10
+  - first:
+      213: 4788401669048295320
+    second: talk_instructions_text_11
+  - first:
+      213: 8756464722936005677
+    second: talk_instructions_text_12
+  - first:
+      213: -6765051731499977500
+    second: talk_instructions_text_13
+  - first:
+      213: -3876169166365814757
+    second: talk_instructions_text_14
+  - first:
+      213: 8576667304943721583
+    second: talk_instructions_text_15
+  - first:
+      213: -8277666271855931300
+    second: talk_instructions_text_16
+  - first:
+      213: 5584493472120364446
+    second: talk_instructions_text_17
+  - first:
+      213: 8070919099354604792
+    second: talk_instructions_text_18
+  - first:
+      213: -2946553978443571646
+    second: talk_instructions_text_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: talk_instructions_text_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 39
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf06fa0fff1dfd480800000000000000
+      internalID: -8872141843711696644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 121
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4b07c3493cb1680800000000000000
+      internalID: -8783211606819425032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 38
+        width: 23
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cd027da0df1a700800000000000000
+      internalID: 549998852516666513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_3
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 121
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e036df32b09c9f0800000000000000
+      internalID: -447814438743765382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_4
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 39
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a1d02e92a6cf7c0800000000000000
+      internalID: -4036234437912094064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 122
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feebed720fe4955d0800000000000000
+      internalID: -3073338477335626001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 39
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e3f1bfa8473f5a0800000000000000
+      internalID: -6488714497843315181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_7
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 39
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083505598fb62fd90800000000000000
+      internalID: -7065466149989756032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 39
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58dbcf1f9e430860800000000000000
+      internalID: 7494920650214856794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf29d4626cd9d410800000000000000
+      internalID: 1502474265861631962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4631a9a73b47784c0800000000000000
+      internalID: -4285328206214851740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fd28da2f1d37240800000000000000
+      internalID: 4788401669048295320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 15
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2407d29546358970800000000000000
+      internalID: 8756464722936005677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e47dc00b45bd12a0800000000000000
+      internalID: -6765051731499977500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_14
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 39
+        width: 23
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1091751ea4153ac0800000000000000
+      internalID: -3876169166365814757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_15
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c90e30971760770800000000000000
+      internalID: 8576667304943721583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_16
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c509bc8f162df1d80800000000000000
+      internalID: -8277666271855931300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_17
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 39
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dd838993b108d40800000000000000
+      internalID: 5584493472120364446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_18
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f462f7c82aa10070800000000000000
+      internalID: 8070919099354604792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_instructions_text_19
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5b53a4ccbb17d0800000000000000
+      internalID: -2946553978443571646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      talk_instructions_text_0: -8872141843711696644
+      talk_instructions_text_1: -8783211606819425032
+      talk_instructions_text_10: -4285328206214851740
+      talk_instructions_text_11: 4788401669048295320
+      talk_instructions_text_12: 8756464722936005677
+      talk_instructions_text_13: -6765051731499977500
+      talk_instructions_text_14: -3876169166365814757
+      talk_instructions_text_15: 8576667304943721583
+      talk_instructions_text_16: -8277666271855931300
+      talk_instructions_text_17: 5584493472120364446
+      talk_instructions_text_18: 8070919099354604792
+      talk_instructions_text_19: -2946553978443571646
+      talk_instructions_text_2: 549998852516666513
+      talk_instructions_text_3: -447814438743765382
+      talk_instructions_text_4: -4036234437912094064
+      talk_instructions_text_5: -3073338477335626001
+      talk_instructions_text_6: -6488714497843315181
+      talk_instructions_text_7: -7065466149989756032
+      talk_instructions_text_8: 7494920650214856794
+      talk_instructions_text_9: 1502474265861631962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed0c64fe56c617a4489e73f4efc2cd47
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/Characters/movement/CharacterWalkSpear.anim
+  uploadId: 663798

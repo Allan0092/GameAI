@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 896b2a4c5a9e2d649a26782d6f803b51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2266258812587179434
+    second: right_instructions_text_0
+  - first:
+      213: -5073714238266023390
+    second: right_instructions_text_1
+  - first:
+      213: -3082119014737477373
+    second: right_instructions_text_2
+  - first:
+      213: -3241998842139479368
+    second: right_instructions_text_3
+  - first:
+      213: 2367271825414255383
+    second: right_instructions_text_4
+  - first:
+      213: 6466843133955137277
+    second: right_instructions_text_5
+  - first:
+      213: 1711898826912391275
+    second: right_instructions_text_6
+  - first:
+      213: 6478815101625059449
+    second: right_instructions_text_7
+  - first:
+      213: -6053952924713111671
+    second: right_instructions_text_8
+  - first:
+      213: 4730068053485027035
+    second: right_instructions_text_9
+  - first:
+      213: 4114965711976725225
+    second: right_instructions_text_10
+  - first:
+      213: 9092402708788869739
+    second: right_instructions_text_11
+  - first:
+      213: -2766153315658034769
+    second: right_instructions_text_12
+  - first:
+      213: -2541593262899090646
+    second: right_instructions_text_13
+  - first:
+      213: 167295346475176402
+    second: right_instructions_text_14
+  - first:
+      213: 3837563608317640196
+    second: right_instructions_text_15
+  - first:
+      213: -6075259879073950821
+    second: right_instructions_text_16
+  - first:
+      213: -769026433359103917
+    second: right_instructions_text_17
+  - first:
+      213: -3004257460890604741
+    second: right_instructions_text_18
+  - first:
+      213: 6760661738236592773
+    second: right_instructions_text_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right_instructions_text_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65284aafd91ac80e0800000000000000
+      internalID: -2266258812587179434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 138
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222ef4038cb8699b0800000000000000
+      internalID: -5073714238266023390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 74
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301881bf51d1a35d0800000000000000
+      internalID: -3082119014737477373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 138
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27c0cda3b1203d0800000000000000
+      internalID: -3241998842139479368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 56
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7137b90de2d3ad020800000000000000
+      internalID: 2367271825414255383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_5
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 139
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed1994197deb950800000000000000
+      internalID: 6466843133955137277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_6
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 56
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60658db9e2e1c710800000000000000
+      internalID: 1711898826912391275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_7
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 56
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9784cc9320069e950800000000000000
+      internalID: 6478815101625059449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 56
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fa983e3e90cfba0800000000000000
+      internalID: -6053952924713111671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef56b65d394a140800000000000000
+      internalID: 4730068053485027035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf845538b4b1930800000000000000
+      internalID: 4114965711976725225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6af82c0714be2e70800000000000000
+      internalID: 9092402708788869739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 107
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11fe11736ac99d0800000000000000
+      internalID: -2766153315658034769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2baf51b4627abcd0800000000000000
+      internalID: -2541593262899090646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_14
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 14
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19a333b3a525200800000000000000
+      internalID: 167295346475176402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_15
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3dbcf4c3c14530800000000000000
+      internalID: 3837563608317640196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_16
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 56
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b935d9df35750bba0800000000000000
+      internalID: -6075259879073950821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_17
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 56
+        width: 23
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358beb8888ed355f0800000000000000
+      internalID: -769026433359103917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_18
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 14
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b6ccda1cbbe46d0800000000000000
+      internalID: -3004257460890604741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_instructions_text_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 32
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ca2a0802b2dd50800000000000000
+      internalID: 6760661738236592773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      right_instructions_text_0: -2266258812587179434
+      right_instructions_text_1: -5073714238266023390
+      right_instructions_text_10: 4114965711976725225
+      right_instructions_text_11: 9092402708788869739
+      right_instructions_text_12: -2766153315658034769
+      right_instructions_text_13: -2541593262899090646
+      right_instructions_text_14: 167295346475176402
+      right_instructions_text_15: 3837563608317640196
+      right_instructions_text_16: -6075259879073950821
+      right_instructions_text_17: -769026433359103917
+      right_instructions_text_18: -3004257460890604741
+      right_instructions_text_19: 6760661738236592773
+      right_instructions_text_2: -3082119014737477373
+      right_instructions_text_3: -3241998842139479368
+      right_instructions_text_4: 2367271825414255383
+      right_instructions_text_5: 6466843133955137277
+      right_instructions_text_6: 1711898826912391275
+      right_instructions_text_7: 6478815101625059449
+      right_instructions_text_8: -6053952924713111671
+      right_instructions_text_9: 4730068053485027035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

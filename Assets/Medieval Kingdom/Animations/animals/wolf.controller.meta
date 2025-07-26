@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0c9e1ade9a7da7479bf60f1e3665f65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/animals/wolf.controller
+  uploadId: 663798

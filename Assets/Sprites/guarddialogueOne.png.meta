@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6c2ac8d268b7f2b4f85798f88a13e12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9161450554127520222
+    second: guarddialogueOne_0
+  - first:
+      213: 2032309207511280856
+    second: guarddialogueOne_1
+  - first:
+      213: -1423378506558528228
+    second: guarddialogueOne_2
+  - first:
+      213: 2758301411008933805
+    second: guarddialogueOne_3
+  - first:
+      213: -8081866265217442401
+    second: guarddialogueOne_4
+  - first:
+      213: -8803233076025387828
+    second: guarddialogueOne_5
+  - first:
+      213: -9169943070522876817
+    second: guarddialogueOne_6
+  - first:
+      213: -2614786260809572652
+    second: guarddialogueOne_7
+  - first:
+      213: -7266486909222197242
+    second: guarddialogueOne_8
+  - first:
+      213: -4213800899084951856
+    second: guarddialogueOne_9
+  - first:
+      213: -7069729368647018795
+    second: guarddialogueOne_10
+  - first:
+      213: -5875442483036992030
+    second: guarddialogueOne_11
+  - first:
+      213: -3073948281665459945
+    second: guarddialogueOne_12
+  - first:
+      213: -9186739562035586314
+    second: guarddialogueOne_13
+  - first:
+      213: 36945214412936146
+    second: guarddialogueOne_14
+  - first:
+      213: 5161953923770965503
+    second: guarddialogueOne_15
+  - first:
+      213: -8138976375991567085
+    second: guarddialogueOne_16
+  - first:
+      213: -3653233212187380082
+    second: guarddialogueOne_17
+  - first:
+      213: -8133346588809175573
+    second: guarddialogueOne_18
+  - first:
+      213: 7250444821098441697
+    second: guarddialogueOne_19
+  - first:
+      213: -1165565442526194094
+    second: guarddialogueOne_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guarddialogueOne_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e6ceda24dfbd080800000000000000
+      internalID: -9161450554127520222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 17
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc2773e476343c10800000000000000
+      internalID: 2032309207511280856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 18
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1527a72ac42f3ce0800000000000000
+      internalID: -1423378506558528228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 17
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf65aae484774620800000000000000
+      internalID: 2758301411008933805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d508b837177df80800000000000000
+      internalID: -8081866265217442401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 56
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4998ca822a4d580800000000000000
+      internalID: -8803233076025387828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 15
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cddee9c51ddb080800000000000000
+      internalID: -9169943070522876817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 18
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9fd0efb966bbd0800000000000000
+      internalID: -2614786260809572652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 18
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e8c2d7a0482b90800000000000000
+      internalID: -7266486909222197242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 17
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ded1df68629585c0800000000000000
+      internalID: -4213800899084951856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 17
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d5a3a89643ed90800000000000000
+      internalID: -7069729368647018795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 18
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed475ce03c367ea0800000000000000
+      internalID: -5875442483036992030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_12
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 18
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719686503542755d0800000000000000
+      internalID: -3073948281665459945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 18
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa57d0ba05228080800000000000000
+      internalID: -9186739562035586314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_14
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 17
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3db3d0a71438000800000000000000
+      internalID: 36945214412936146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_15
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 16
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd5d459eb1f2a740800000000000000
+      internalID: 5161953923770965503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_16
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 18
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df9b1bb1c8c0f80800000000000000
+      internalID: -8138976375991567085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_17
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 17
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8679e9cfbb1d4dc0800000000000000
+      internalID: -3653233212187380082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_18
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 17
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedd4eaae5c802f80800000000000000
+      internalID: -8133346588809175573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_19
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 17
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba4297621ce9460800000000000000
+      internalID: 7250444821098441697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueOne_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 17
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25651cbc76413dfe0800000000000000
+      internalID: -1165565442526194094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guarddialogueOne_0: -9161450554127520222
+      guarddialogueOne_1: 2032309207511280856
+      guarddialogueOne_10: -7069729368647018795
+      guarddialogueOne_11: -5875442483036992030
+      guarddialogueOne_12: -3073948281665459945
+      guarddialogueOne_13: -9186739562035586314
+      guarddialogueOne_14: 36945214412936146
+      guarddialogueOne_15: 5161953923770965503
+      guarddialogueOne_16: -8138976375991567085
+      guarddialogueOne_17: -3653233212187380082
+      guarddialogueOne_18: -8133346588809175573
+      guarddialogueOne_19: 7250444821098441697
+      guarddialogueOne_2: -1423378506558528228
+      guarddialogueOne_20: -1165565442526194094
+      guarddialogueOne_3: 2758301411008933805
+      guarddialogueOne_4: -8081866265217442401
+      guarddialogueOne_5: -8803233076025387828
+      guarddialogueOne_6: -9169943070522876817
+      guarddialogueOne_7: -2614786260809572652
+      guarddialogueOne_8: -7266486909222197242
+      guarddialogueOne_9: -4213800899084951856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

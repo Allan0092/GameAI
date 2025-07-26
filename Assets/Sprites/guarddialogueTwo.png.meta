@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: f36bb211ca56abf4f85f6ab8a5514bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8532763835827640047
+    second: guarddialogueTwo_0
+  - first:
+      213: -1618853512791346421
+    second: guarddialogueTwo_1
+  - first:
+      213: 7034638617313687114
+    second: guarddialogueTwo_2
+  - first:
+      213: -4997641147154866795
+    second: guarddialogueTwo_3
+  - first:
+      213: 6884826837855562703
+    second: guarddialogueTwo_4
+  - first:
+      213: -6069262206816880104
+    second: guarddialogueTwo_5
+  - first:
+      213: -2607606286071427621
+    second: guarddialogueTwo_6
+  - first:
+      213: -8296715633446963330
+    second: guarddialogueTwo_7
+  - first:
+      213: -161663663296868865
+    second: guarddialogueTwo_8
+  - first:
+      213: 6507716027832482861
+    second: guarddialogueTwo_9
+  - first:
+      213: 3836251154116129588
+    second: guarddialogueTwo_10
+  - first:
+      213: 4190045204950788692
+    second: guarddialogueTwo_11
+  - first:
+      213: 7130491511542462543
+    second: guarddialogueTwo_12
+  - first:
+      213: -8290858345447465820
+    second: guarddialogueTwo_13
+  - first:
+      213: 9105435525902400849
+    second: guarddialogueTwo_14
+  - first:
+      213: 8034475777500054601
+    second: guarddialogueTwo_15
+  - first:
+      213: -6567556170114604115
+    second: guarddialogueTwo_16
+  - first:
+      213: -60353025119093228
+    second: guarddialogueTwo_17
+  - first:
+      213: -2587224791234484641
+    second: guarddialogueTwo_18
+  - first:
+      213: -4498278591623183045
+    second: guarddialogueTwo_19
+  - first:
+      213: 949137543802434945
+    second: guarddialogueTwo_20
+  - first:
+      213: 7354961133013790877
+    second: guarddialogueTwo_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guarddialogueTwo_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119a135ff78859980800000000000000
+      internalID: -8532763835827640047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 15
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03bda2ae4da889e0800000000000000
+      internalID: -1618853512791346421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 16
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463a342d8e00a160800000000000000
+      internalID: 7034638617313687114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 15
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d55f4fadfc4aab0800000000000000
+      internalID: -4997641147154866795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 15
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe47a1881db8f50800000000000000
+      internalID: 6884826837855562703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 54
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81af9f1ed26a5cba0800000000000000
+      internalID: -6069262206816880104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 15
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd03a406ebefcbd0800000000000000
+      internalID: -2607606286071427621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 16
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b6f9d6152cdc80800000000000000
+      internalID: -8296715633446963330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 14
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd0a1831c7a1cdf0800000000000000
+      internalID: -161663663296868865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 15
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c321a7f3d005a50800000000000000
+      internalID: 6507716027832482861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_10
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 16
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433364e691a1d3530800000000000000
+      internalID: 3836251154116129588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 16
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aabe10ae7062a30800000000000000
+      internalID: 4190045204950788692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_12
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 15
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f483d63304894f260800000000000000
+      internalID: 7130491511542462543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 15
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac558cf244f0fc80800000000000000
+      internalID: -8290858345447465820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_14
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 15
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d72ae3e510d5e70800000000000000
+      internalID: 9105435525902400849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_15
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 15
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440f52b621308f60800000000000000
+      internalID: 8034475777500054601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 15
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3e4eda57a5bd4a0800000000000000
+      internalID: -6567556170114604115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 16
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ef7a05e35992ff0800000000000000
+      internalID: -60353025119093228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_18
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 16
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56626492c4581cd0800000000000000
+      internalID: -2587224791234484641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_19
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 16
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b354e8d2477e291c0800000000000000
+      internalID: -4498278591623183045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_20
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 15
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185b45d31930c2d00800000000000000
+      internalID: 949137543802434945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarddialogueTwo_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 15
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907716ae22121660800000000000000
+      internalID: 7354961133013790877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guarddialogueTwo_0: -8532763835827640047
+      guarddialogueTwo_1: -1618853512791346421
+      guarddialogueTwo_10: 3836251154116129588
+      guarddialogueTwo_11: 4190045204950788692
+      guarddialogueTwo_12: 7130491511542462543
+      guarddialogueTwo_13: -8290858345447465820
+      guarddialogueTwo_14: 9105435525902400849
+      guarddialogueTwo_15: 8034475777500054601
+      guarddialogueTwo_16: -6567556170114604115
+      guarddialogueTwo_17: -60353025119093228
+      guarddialogueTwo_18: -2587224791234484641
+      guarddialogueTwo_19: -4498278591623183045
+      guarddialogueTwo_2: 7034638617313687114
+      guarddialogueTwo_20: 949137543802434945
+      guarddialogueTwo_21: 7354961133013790877
+      guarddialogueTwo_3: -4997641147154866795
+      guarddialogueTwo_4: 6884826837855562703
+      guarddialogueTwo_5: -6069262206816880104
+      guarddialogueTwo_6: -2607606286071427621
+      guarddialogueTwo_7: -8296715633446963330
+      guarddialogueTwo_8: -161663663296868865
+      guarddialogueTwo_9: 6507716027832482861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

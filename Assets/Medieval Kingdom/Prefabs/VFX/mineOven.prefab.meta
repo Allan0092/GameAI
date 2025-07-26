@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df8a4e8d7b8aba54da0418f16fdf4e4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Prefabs/VFX/mineOven.prefab
+  uploadId: 663798

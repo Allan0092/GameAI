@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5162f15b2878d9e4dab92e3ea05959f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/animals/chickIdle1.anim
+  uploadId: 663798

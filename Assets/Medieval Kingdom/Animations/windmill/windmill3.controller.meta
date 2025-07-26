@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82848c4ff602acd47bb3748b9bffb17b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/windmill/windmill3.controller
+  uploadId: 663798

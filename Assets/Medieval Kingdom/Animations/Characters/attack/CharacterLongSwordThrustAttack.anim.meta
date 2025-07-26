@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f948927136100e408710078ce683ce7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/Characters/attack/CharacterLongSwordThrustAttack.anim
+  uploadId: 663798

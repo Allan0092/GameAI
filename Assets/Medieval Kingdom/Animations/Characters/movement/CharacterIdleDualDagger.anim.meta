@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74cbb8fd981de10499deee4f6f7dcfd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/Characters/movement/CharacterIdleDualDagger.anim
+  uploadId: 663798

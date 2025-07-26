@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a91484dc6c14ea4bba6d836fcc4bc60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/Characters/movement/CharacterRunArbalest.anim
+  uploadId: 663798

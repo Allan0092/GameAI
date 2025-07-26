@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6fd9613d1520ec84685fc696336ea3b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2224558030962379125
+    second: take_legendary_sword_text_0
+  - first:
+      213: 6468305316569604142
+    second: take_legendary_sword_text_1
+  - first:
+      213: 2172720614142957661
+    second: take_legendary_sword_text_2
+  - first:
+      213: 4896538327740997142
+    second: take_legendary_sword_text_3
+  - first:
+      213: -2991028464164277471
+    second: take_legendary_sword_text_4
+  - first:
+      213: -8453453696707571857
+    second: take_legendary_sword_text_5
+  - first:
+      213: 2591529274977364212
+    second: take_legendary_sword_text_6
+  - first:
+      213: 7650953803644397898
+    second: take_legendary_sword_text_7
+  - first:
+      213: -6699319672528848594
+    second: take_legendary_sword_text_8
+  - first:
+      213: -6287395816325062125
+    second: take_legendary_sword_text_9
+  - first:
+      213: -4966754581256681129
+    second: take_legendary_sword_text_10
+  - first:
+      213: 5867964110682025722
+    second: take_legendary_sword_text_11
+  - first:
+      213: -6893826197563670222
+    second: take_legendary_sword_text_12
+  - first:
+      213: -5622941874530533599
+    second: take_legendary_sword_text_13
+  - first:
+      213: 8394333306749548859
+    second: take_legendary_sword_text_14
+  - first:
+      213: 2396531274884711604
+    second: take_legendary_sword_text_15
+  - first:
+      213: -1582820062434188840
+    second: take_legendary_sword_text_16
+  - first:
+      213: -1427514125238153614
+    second: take_legendary_sword_text_17
+  - first:
+      213: 6665848573044473045
+    second: take_legendary_sword_text_18
+  - first:
+      213: -544198197579123270
+    second: take_legendary_sword_text_19
+  - first:
+      213: 4397679729795553997
+    second: take_legendary_sword_text_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: take_legendary_sword_text_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86be3ec148c021e0800000000000000
+      internalID: -2224558030962379125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20e6e43a6904c950800000000000000
+      internalID: 6468305316569604142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 56
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d82213ed072e10800000000000000
+      internalID: 2172720614142957661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e56168aaff3f340800000000000000
+      internalID: 4896538327740997142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 56
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123f760857bbd76d0800000000000000
+      internalID: -2991028464164277471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 56
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f4882b6ac4faa80800000000000000
+      internalID: -8453453696707571857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f82d042526f6f320800000000000000
+      internalID: 2591529274977364212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 55
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49e52ba2f5ad2a60800000000000000
+      internalID: 7650953803644397898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b12a904c3703a0800000000000000
+      internalID: -6699319672528848594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_9
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 14
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312eaad21deaeb8a0800000000000000
+      internalID: -6287395816325062125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_10
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759c6a9f50b821bb0800000000000000
+      internalID: -4966754581256681129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_11
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe61f3d4423f6150800000000000000
+      internalID: 5867964110682025722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 56
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2318fee29953450a0800000000000000
+      internalID: -6893826197563670222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_13
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f30ff182c47f1b0800000000000000
+      internalID: -5622941874530533599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_14
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 56
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39790bdaa9ae7470800000000000000
+      internalID: 8394333306749548859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_15
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 14
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b40e944f70324120800000000000000
+      internalID: 2396531274884711604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 56
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1af331a81b80ae0800000000000000
+      internalID: -1582820062434188840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_17
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 56
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec3556773703ce0800000000000000
+      internalID: -1427514125238153614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc3cd2c5f9d18c50800000000000000
+      internalID: 6665848573044473045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_19
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 56
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab573e16f9e9278f0800000000000000
+      internalID: -544198197579123270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: take_legendary_sword_text_20
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 56
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca56621a62b70d30800000000000000
+      internalID: 4397679729795553997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      take_legendary_sword_text_0: -2224558030962379125
+      take_legendary_sword_text_1: 6468305316569604142
+      take_legendary_sword_text_10: -4966754581256681129
+      take_legendary_sword_text_11: 5867964110682025722
+      take_legendary_sword_text_12: -6893826197563670222
+      take_legendary_sword_text_13: -5622941874530533599
+      take_legendary_sword_text_14: 8394333306749548859
+      take_legendary_sword_text_15: 2396531274884711604
+      take_legendary_sword_text_16: -1582820062434188840
+      take_legendary_sword_text_17: -1427514125238153614
+      take_legendary_sword_text_18: 6665848573044473045
+      take_legendary_sword_text_19: -544198197579123270
+      take_legendary_sword_text_2: 2172720614142957661
+      take_legendary_sword_text_20: 4397679729795553997
+      take_legendary_sword_text_3: 4896538327740997142
+      take_legendary_sword_text_4: -2991028464164277471
+      take_legendary_sword_text_5: -8453453696707571857
+      take_legendary_sword_text_6: 2591529274977364212
+      take_legendary_sword_text_7: 7650953803644397898
+      take_legendary_sword_text_8: -6699319672528848594
+      take_legendary_sword_text_9: -6287395816325062125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 5c36ce5141b6b974da9d20cfad7dc0ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8734632409371628550
+    second: village_chief_text_0
+  - first:
+      213: -8731233904083703466
+    second: village_chief_text_1
+  - first:
+      213: 8061792915076545780
+    second: village_chief_text_2
+  - first:
+      213: 1993578292285314753
+    second: village_chief_text_3
+  - first:
+      213: 1598058956269944741
+    second: village_chief_text_4
+  - first:
+      213: 8495716953914078851
+    second: village_chief_text_5
+  - first:
+      213: -8257154046660699011
+    second: village_chief_text_6
+  - first:
+      213: 4793815029699630196
+    second: village_chief_text_7
+  - first:
+      213: -5229886298440805380
+    second: village_chief_text_8
+  - first:
+      213: 161334905772433312
+    second: village_chief_text_9
+  - first:
+      213: -2684226553629863567
+    second: village_chief_text_10
+  - first:
+      213: 4627716209490666033
+    second: village_chief_text_11
+  - first:
+      213: 5375255185857612581
+    second: village_chief_text_12
+  - first:
+      213: -1042235672384129659
+    second: village_chief_text_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village_chief_text_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb2acb0a1a58c680800000000000000
+      internalID: -8734632409371628550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 139
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6596e38360d64d680800000000000000
+      internalID: -8731233904083703466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 56
+        width: 23
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcf5eb61fd31ef60800000000000000
+      internalID: 8061792915076545780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 56
+        width: 23
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c69897f4ec9aab10800000000000000
+      internalID: 1993578292285314753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 55
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aff99267227d2610800000000000000
+      internalID: 1598058956269944741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 56
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ff4eae89d6e570800000000000000
+      internalID: 8495716953914078851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 139
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c1c119422b86d80800000000000000
+      internalID: -8257154046660699011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 56
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474dc2cee5d078240800000000000000
+      internalID: 4793815029699630196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 56
+        width: 23
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3d0c5ee16bb67b0800000000000000
+      internalID: -5229886298440805380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afdf64fd3d2d3200800000000000000
+      internalID: 161334905772433312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 14
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171983ecb26bfbad0800000000000000
+      internalID: -2684226553629863567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1322204bf53f83040800000000000000
+      internalID: 4627716209490666033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 56
+        width: 23
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b8e1abc1eb89a40800000000000000
+      internalID: 5375255185857612581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_chief_text_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 56
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585bd4f8d2c3981f0800000000000000
+      internalID: -1042235672384129659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      village_chief_text_0: -8734632409371628550
+      village_chief_text_1: -8731233904083703466
+      village_chief_text_10: -2684226553629863567
+      village_chief_text_11: 4627716209490666033
+      village_chief_text_12: 5375255185857612581
+      village_chief_text_13: -1042235672384129659
+      village_chief_text_2: 8061792915076545780
+      village_chief_text_3: 1993578292285314753
+      village_chief_text_4: 1598058956269944741
+      village_chief_text_5: 8495716953914078851
+      village_chief_text_6: -8257154046660699011
+      village_chief_text_7: 4793815029699630196
+      village_chief_text_8: -5229886298440805380
+      village_chief_text_9: 161334905772433312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

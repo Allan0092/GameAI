@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b190b5083d78c8a49b6ce532e84a0ae1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Prefabs/environment/animatedWater.prefab
+  uploadId: 663798

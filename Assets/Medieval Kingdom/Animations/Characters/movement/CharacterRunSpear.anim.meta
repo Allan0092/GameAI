@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7f9cec99497a2e46a67bae80d48b2e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231319
+  packageName: Pixel Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Kingdom/Animations/Characters/movement/CharacterRunSpear.anim
+  uploadId: 663798

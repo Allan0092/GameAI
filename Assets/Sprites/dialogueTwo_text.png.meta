@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 284c4ac4e5a140449bbdc02567d83c50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3535112990370855204
+    second: dialogueTwo_text_0
+  - first:
+      213: -6350405357678476786
+    second: dialogueTwo_text_1
+  - first:
+      213: 396062171025234155
+    second: dialogueTwo_text_2
+  - first:
+      213: -1816350078647713978
+    second: dialogueTwo_text_3
+  - first:
+      213: 1290797008259498662
+    second: dialogueTwo_text_4
+  - first:
+      213: 3774500769339322347
+    second: dialogueTwo_text_5
+  - first:
+      213: 8991667954459133170
+    second: dialogueTwo_text_6
+  - first:
+      213: -6557861440700190056
+    second: dialogueTwo_text_7
+  - first:
+      213: 6486252631898380055
+    second: dialogueTwo_text_8
+  - first:
+      213: 7715665417793168990
+    second: dialogueTwo_text_9
+  - first:
+      213: -9145525076244831772
+    second: dialogueTwo_text_10
+  - first:
+      213: -5937201671464364072
+    second: dialogueTwo_text_11
+  - first:
+      213: -3011852840547173721
+    second: dialogueTwo_text_12
+  - first:
+      213: 8399672367392941639
+    second: dialogueTwo_text_13
+  - first:
+      213: -164979996220549931
+    second: dialogueTwo_text_14
+  - first:
+      213: 7710434921216766337
+    second: dialogueTwo_text_15
+  - first:
+      213: 6088894704282037045
+    second: dialogueTwo_text_16
+  - first:
+      213: -3436178321829261727
+    second: dialogueTwo_text_17
+  - first:
+      213: 8663451647479504597
+    second: dialogueTwo_text_18
+  - first:
+      213: 5806518252064027421
+    second: dialogueTwo_text_19
+  - first:
+      213: 150229435003075095
+    second: dialogueTwo_text_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dialogueTwo_text_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 33
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4297cefe88e3f0130800000000000000
+      internalID: 3535112990370855204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 33
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0246db19f3ded7a0800000000000000
+      internalID: -6350405357678476786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8dde432781f7500800000000000000
+      internalID: 396062171025234155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 33
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f33761a370bc6e0800000000000000
+      internalID: -1816350078647713978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 34
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2c1724a05d9e110800000000000000
+      internalID: 1290797008259498662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 33
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befa8e89378b16430800000000000000
+      internalID: 3774500769339322347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 33
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4cccb5d52d8cc70800000000000000
+      internalID: 8991667954459133170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 34
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89275d4c3cbcdf4a0800000000000000
+      internalID: -6557861440700190056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 33
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717debf276cc30a50800000000000000
+      internalID: 6486252631898380055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 34
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e35171dc831b60800000000000000
+      internalID: 7715665417793168990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 33
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1eff1f561941180800000000000000
+      internalID: -9145525076244831772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_11
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 34
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7d2845982da9da0800000000000000
+      internalID: -5937201671464364072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_12
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 33
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa3f6b8ccfb336d0800000000000000
+      internalID: -3011852840547173721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_13
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 33
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746ee18c381a19470800000000000000
+      internalID: 8399672367392941639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_14
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 33
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d49a3a419fd5bdf0800000000000000
+      internalID: -164979996220549931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_15
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 33
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18174ee85b7f00b60800000000000000
+      internalID: 7710434921216766337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_16
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 34
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bec732979108450800000000000000
+      internalID: 6088894704282037045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_17
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 33
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e087e950e3050d0800000000000000
+      internalID: -3436178321829261727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_18
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 34
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded9c85f53ca3870800000000000000
+      internalID: 8663451647479504597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 33
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1339140695e49050800000000000000
+      internalID: 5806518252064027421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialogueTwo_text_20
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 15
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a7a2c00e8b51200800000000000000
+      internalID: 150229435003075095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dialogueTwo_text_0: 3535112990370855204
+      dialogueTwo_text_1: -6350405357678476786
+      dialogueTwo_text_10: -9145525076244831772
+      dialogueTwo_text_11: -5937201671464364072
+      dialogueTwo_text_12: -3011852840547173721
+      dialogueTwo_text_13: 8399672367392941639
+      dialogueTwo_text_14: -164979996220549931
+      dialogueTwo_text_15: 7710434921216766337
+      dialogueTwo_text_16: 6088894704282037045
+      dialogueTwo_text_17: -3436178321829261727
+      dialogueTwo_text_18: 8663451647479504597
+      dialogueTwo_text_19: 5806518252064027421
+      dialogueTwo_text_2: 396062171025234155
+      dialogueTwo_text_20: 150229435003075095
+      dialogueTwo_text_3: -1816350078647713978
+      dialogueTwo_text_4: 1290797008259498662
+      dialogueTwo_text_5: 3774500769339322347
+      dialogueTwo_text_6: 8991667954459133170
+      dialogueTwo_text_7: -6557861440700190056
+      dialogueTwo_text_8: 6486252631898380055
+      dialogueTwo_text_9: 7715665417793168990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
