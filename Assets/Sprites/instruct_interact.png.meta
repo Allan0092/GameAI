@@ -1,50 +1,49 @@
 fileFormatVersion: 2
-guid: 646e13800e9cfeb4d99809d5bc36c768
-AssetOrigin:
-  serializedVersion: 1
-  productId: 231319
-  packageName: Pixel Medieval Kingdom
-  packageVersion: 1.0
-  assetPath: Assets/Medieval Kingdom/Sprites/Animals/piggy_32x32.png
-  uploadId: 663798
+guid: 16bc0953453f75f48b5c5fa9c2d51cce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5361873874541294664
-    second: piggy_32x32_0
+      213: 8163417728683535743
+    second: Untitledadasd_0
   - first:
-      213: -1358385036102088025
-    second: piggy_32x32_1
+      213: 9140714445348912412
+    second: Untitledadasd_1
   - first:
-      213: -7727176265593185622
-    second: piggy_32x32_2
+      213: -7260695171080972217
+    second: Untitledadasd_2
   - first:
-      213: -1635241570432447234
-    second: piggy_32x32_3
+      213: -2673092675612891999
+    second: Untitledadasd_3
   - first:
-      213: 2339789784568374069
-    second: piggy_32x32_4
+      213: 8411788706392832626
+    second: Untitledadasd_4
   - first:
-      213: -6262259045936872901
-    second: piggy_32x32_5
+      213: -1658685700851368436
+    second: Untitledadasd_5
   - first:
-      213: 2685895607388770461
-    second: piggy_32x32_6
+      213: -7248506485928041884
+    second: Untitledadasd_6
   - first:
-      213: -1350458137503842121
-    second: piggy_32x32_7
+      213: -8543350824381152060
+    second: Untitledadasd_7
   - first:
-      213: -7523128993994584955
-    second: piggy_32x32_8
+      213: 2443490747562175924
+    second: Untitledadasd_8
   - first:
-      213: -4321100726062436555
-    second: piggy_32x32_9
+      213: -6874651849294804506
+    second: Untitledadasd_9
   - first:
-      213: -4406630307469995904
-    second: piggy_32x32_10
+      213: -7893533956866425475
+    second: Untitledadasd_10
   - first:
-      213: -3794992982500090019
-    second: piggy_32x32_11
+      213: -2728272998802889027
+    second: Untitledadasd_11
+  - first:
+      213: 9141500097859637592
+    second: Untitledadasd_12
+  - first:
+      213: 8690690487042847682
+    second: Untitledadasd_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -77,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -91,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,13 +107,13 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -127,7 +126,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -140,7 +139,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -153,254 +152,298 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: piggy_32x32_0
+      name: Untitledadasd_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
+        x: 20
+        y: 57
+        width: 49
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8443b7661e3396a40800000000000000
-      internalID: 5361873874541294664
+      spriteID: f7dee4f2c294a4170800000000000000
+      internalID: 8163417728683535743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_1
+      name: Untitledadasd_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 71
+        y: 55
+        width: 154
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7aacde6b10c062de0800000000000000
-      internalID: -1358385036102088025
+      spriteID: c1dbd44cb575ade70800000000000000
+      internalID: 9140714445348912412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_2
+      name: Untitledadasd_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
+        x: 251
+        y: 97
+        width: 16
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: aaa1d74702e83c490800000000000000
-      internalID: -7727176265593185622
+      spriteID: 7481351f534dc3b90800000000000000
+      internalID: -7260695171080972217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_3
+      name: Untitledadasd_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
+        x: 272
+        y: 55
+        width: 43
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: efc0c60a4747e49e0800000000000000
-      internalID: -1635241570432447234
+      spriteID: 1a4256acf5447ead0800000000000000
+      internalID: -2673092675612891999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_4
+      name: Untitledadasd_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 317
+        y: 97
+        width: 16
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 533294e896a987020800000000000000
-      internalID: 2339789784568374069
+      spriteID: 27aff2ac24dacb470800000000000000
+      internalID: 8411788706392832626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_5
+      name: Untitledadasd_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
+        x: 380
+        y: 55
+        width: 37
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b32c47b939cf719a0800000000000000
-      internalID: -6262259045936872901
+      spriteID: c0efbb6a42a2bf8e0800000000000000
+      internalID: -1658685700851368436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_6
+      name: Untitledadasd_6
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
+        x: 416
+        y: 55
+        width: 52
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d90903e03d7364520800000000000000
-      internalID: 2685895607388770461
+      spriteID: 462e42a51c1286b90800000000000000
+      internalID: -7248506485928041884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_7
+      name: Untitledadasd_7
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
+        x: 491
+        y: 57
+        width: 19
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7b04c0e9a75324de0800000000000000
-      internalID: -1350458137503842121
+      spriteID: 4c4883990bbef6980800000000000000
+      internalID: -8543350824381152060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_8
+      name: Untitledadasd_8
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
+        x: 515
+        y: 55
+        width: 46
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 58cc2890a0a789790800000000000000
-      internalID: -7523128993994584955
+      spriteID: 4bda56483e509e120800000000000000
+      internalID: 2443490747562175924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_9
+      name: Untitledadasd_9
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
+        x: 560
+        y: 55
+        width: 37
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 53fad58a8cd5804c0800000000000000
-      internalID: -4321100726062436555
+      spriteID: 6e90d4801945890a0800000000000000
+      internalID: -6874651849294804506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_10
+      name: Untitledadasd_10
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
+        x: 596
+        y: 55
+        width: 46
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 080d7ca251188d2c0800000000000000
-      internalID: -4406630307469995904
+      spriteID: d7d3e7e10b8847290800000000000000
+      internalID: -7893533956866425475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piggy_32x32_11
+      name: Untitledadasd_11
       rect:
         serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
+        x: 647
+        y: 55
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db66010a92a332ad0800000000000000
+      internalID: -2728272998802889027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitledadasd_12
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 55
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8515f1fb7e12dde70800000000000000
+      internalID: 9141500097859637592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitledadasd_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 43
+        width: 25
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -408,10 +451,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d5f5bf83df9755bc0800000000000000
-      internalID: -3794992982500090019
+      spriteID: 2c33e05e3f88b9870800000000000000
+      internalID: 8690690487042847682
       vertices: []
       indices: 
       edges: []
@@ -420,7 +463,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -430,18 +473,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      piggy_32x32_0: 5361873874541294664
-      piggy_32x32_1: -1358385036102088025
-      piggy_32x32_10: -4406630307469995904
-      piggy_32x32_11: -3794992982500090019
-      piggy_32x32_2: -7727176265593185622
-      piggy_32x32_3: -1635241570432447234
-      piggy_32x32_4: 2339789784568374069
-      piggy_32x32_5: -6262259045936872901
-      piggy_32x32_6: 2685895607388770461
-      piggy_32x32_7: -1350458137503842121
-      piggy_32x32_8: -7523128993994584955
-      piggy_32x32_9: -4321100726062436555
+      Untitledadasd_0: 8163417728683535743
+      Untitledadasd_1: 9140714445348912412
+      Untitledadasd_10: -7893533956866425475
+      Untitledadasd_11: -2728272998802889027
+      Untitledadasd_12: 9141500097859637592
+      Untitledadasd_13: 8690690487042847682
+      Untitledadasd_2: -7260695171080972217
+      Untitledadasd_3: -2673092675612891999
+      Untitledadasd_4: 8411788706392832626
+      Untitledadasd_5: -1658685700851368436
+      Untitledadasd_6: -7248506485928041884
+      Untitledadasd_7: -8543350824381152060
+      Untitledadasd_8: 2443490747562175924
+      Untitledadasd_9: -6874651849294804506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
