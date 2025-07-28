@@ -65,7 +65,7 @@ public class guard_NPC_interaction : MonoBehaviour
 
                 // Dialogue features:
                 // Allowing interaction if 
-                if (Input.GetKeyDown(KeyCode.I))
+                if (Input.GetKeyDown(KeyCode.E))
                 {
 
 

@@ -79,9 +79,9 @@ public class chief_NPC_interaction : MonoBehaviour
 
 
                 // Dialogue features:
-                
+
                 // Allowing interaction if 
-                if (Input.GetKeyDown(KeyCode.I))
+                if (Input.GetKeyDown(KeyCode.E))
                 {
 
 
@@ -132,7 +132,7 @@ public class chief_NPC_interaction : MonoBehaviour
 
                         completedinteraction = true;
                     }
-                    
+
                 }
 
 

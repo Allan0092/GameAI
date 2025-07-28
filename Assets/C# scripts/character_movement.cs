@@ -13,7 +13,7 @@ public class character_movement : MonoBehaviour
 
     // To determine which direction projectiles are shooting at based on the direction the player is facing
     // in the seperate 'firing_projectile.cs' C# script. 
-    public bool isfacingright = true;      // if this variable is false, then the player is facing left
+    public bool isfacingright = true;// if this variable is false, then the player is facing left
 
     // Start is called before the first frame update
     void Start()
@@ -33,13 +33,13 @@ public class character_movement : MonoBehaviour
     {
         if (canMove)
         {
-            if (Input.GetKey(KeyCode.LeftArrow))
+            if (Input.GetKey(KeyCode.A))
             {
                 transform.Translate(-Vector3.right * moveSpeed * Time.deltaTime);
                 FlipSprite(true); // Dont flip horizontally
                 isfacingright = false;
             }
-            if (Input.GetKey(KeyCode.RightArrow))
+            if (Input.GetKey(KeyCode.D))
             {
                 transform.Translate(Vector3.right * moveSpeed * Time.deltaTime);
                 FlipSprite(false); // Dont flip horizontally

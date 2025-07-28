@@ -14,7 +14,7 @@ public class legendary_sword_interaction : MonoBehaviour
     private GameObject dialogue_one;
     private GameObject dialogue_two;
     private GameObject dialogue_three;
-    
+
 
 
     // Start is called before the first frame update
@@ -65,7 +65,7 @@ public class legendary_sword_interaction : MonoBehaviour
 
                 // Dialogue features:
                 // Allowing interaction if 
-                if (Input.GetKeyDown(KeyCode.I))
+                if (Input.GetKeyDown(KeyCode.E))
                 {
 
 
